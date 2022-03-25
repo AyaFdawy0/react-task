@@ -1,0 +1,9 @@
+.userContainer{
+    background-color:"lightgray";
+    margin:"10px auto";
+    width:"70%";
+    padding:"15px";
+}
+.btn{
+    background-color:"lightblue";  
+}
